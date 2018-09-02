@@ -1,9 +1,9 @@
 apiVersion: v1
 entries:
   jenkins-x-platform:
-  - created: 2018-09-02T00:06:43.7193684-07:00
+  - created: 2018-09-02T01:02:53.3484576-07:00
     description: Jenkins X next gen cloud CI / CD platform for Kubernetes
-    digest: 787e68001afbb25e63a6fce13cda27a6f0c5ad48790bf663c1437254cba6111a
+    digest: 73befbc7be33b2a971c6b30a617679f0b4b4c4789fa283e119e49518df251357
     home: https://jenkins-x.github.io/jenkins-x-website/
     icon: https://jenkins-x.github.io/jenkins-x-website/img/profile.png
     maintainers:
@@ -16,4 +16,4 @@ entries:
     urls:
     - jenkins-x-platform-0.0.2261.tgz
     version: 0.0.2261
-generated: 2018-09-02T00:06:43.7135104-07:00
+generated: 2018-09-02T01:02:53.3416234-07:00
